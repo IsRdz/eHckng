@@ -1,2 +1,2 @@
-# pyhck
-python y hacking etico
+# hckng
+hacking etico
